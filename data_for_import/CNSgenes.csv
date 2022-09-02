@@ -1,0 +1,35 @@
+Gene,Lineage
+AQP4,Astrocyte
+CD44,Astrocyte
+GFAP,Astrocyte
+TNC,Astrocyte
+CDH5,Endothelial
+TEK,Endothelial
+VWF,Endothelial
+CD36,Microglia
+CD68,Microglia
+ASCL1,Neural Progenitor
+DCX,Neural Progenitor
+SOX1,Neural Progenitor
+FUT4,Neural Stem Cell
+HES1,Neural Stem Cell
+HES5,Neural Stem Cell
+MSI1,Neural Stem Cell
+NES,Neural Stem Cell
+SOX2,Neural Stem Cell
+ELAVL3,Neuron
+NEFH,Neuron
+NEFL,Neuron
+NEFM,Neuron
+NEUROD6,Neuron
+SNAP25,Neuron
+TUBB3,Neuron
+GPR17,OPC
+NKX2-2,OPC
+OLIG1,OPC
+OLIG2,OPC
+SOX10,OPC
+CSPG4,OPC
+PDGFRA,OPC
+ST8SIA1,OPC
+DES,Smooth Muscle

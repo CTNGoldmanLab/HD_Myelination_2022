@@ -37,3 +37,10 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+
+Archive
+data_for_import/rsemIsoforms
+figures/*
+GEO/*
+mass_spec/Archive
+supTables/*
